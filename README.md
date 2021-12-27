@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Tommi Juutilainen.
-- 👀 I’m interested in tech, games and martial arts.
-- 🌱 I’m currently learning Unity & C#
-- 💞️ I’m looking to collaborate on game projects!
-- 📫 How to reach me: juutilainen.tommi@gmail.com https://www.linkedin.com/in/tommi-juutilainen/
+Hey, I'm Tommi Juutilainen. I study ICT Engineering majoring in Game Applications.
+
+I'm passionate about tech, games, programming, martial arts and traveling.
+
+My strongest combo is Unity and C# but I'm looking forward to learning to dive into Unreal Engine in the future as well!
 
 <!---
 tommijuu/tommijuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
