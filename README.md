@@ -1,4 +1,4 @@
-Hey, I'm Tommi Juutilainen. I study ICT Engineering majoring in Game Applications.
+Hey, I'm Tommi Juutilainen. I study ICT Engineering and major in Game Applications.
 
 I'm passionate about tech, games, programming, martial arts and traveling.
 
